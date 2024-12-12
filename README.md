@@ -33,7 +33,7 @@ I'm a Software Engineer specializing in **Java (Spring Boot)** and **React.js**,
 - Participated in BuildSpace 2024, solving environmental challenges with digital tools.  
 
 ## 📫 How to Reach Me  
-[LinkedIn](https://www.linkedin.com/in/oussama-ouardi-emsi-dev) | [GitHub](https://github.com/oussama166) | Email: oussamaouardi80@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/oussama-ouardi-emsi-dev) | [GitHub](https://github.com/oussama166) | [Portfolio](oussamaouardi.netlify.app) |Email: oussamaouardi80@gmail.com  
 
 ## 🔧 Tools I Use  
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=VisualStudioCode)  
